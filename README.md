@@ -10,7 +10,7 @@ The continuity and momentum conservation equations are embedded into the loss fu
 Robustness of the developed model is then tested for numerous variations of porous media which have not been used for developing the model.
 
 
-
+# Files
 The files in this repository are the following:
 
 - main-new-multi.py
@@ -21,3 +21,15 @@ Contains the deep learning model functions.
 
 - test.py
 Contains the code needed to run the test.
+
+# Data:
+The data required to run the training and testing can be found here:
+Training:
+Velocity in x-direction:
+https://u.pcloud.link/publink/show?code=XZvHaxVZoDSpyNXTHjpM5aLuPhDfKSut8iqy
+
+Velocity in y-direction:
+https://u.pcloud.link/publink/show?code=XZVzaxVZoT4JYici0K0EI9dv3GRKbBYvNR4k
+
+Circular packs:
+https://u.pcloud.link/publink/show?code=XZnzaxVZGMdjYktgEuHCCUy7zmP9uRiyatfk
