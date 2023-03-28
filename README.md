@@ -25,11 +25,11 @@ Contains the code needed to run the test.
 # Data:
 The data required to run the training and testing can be found here:
 Training:
-Velocity in x-direction:
+Velocity in x-direction: <br />
 https://u.pcloud.link/publink/show?code=XZvHaxVZoDSpyNXTHjpM5aLuPhDfKSut8iqy
 
-Velocity in y-direction:
+Velocity in y-direction: <br />
 https://u.pcloud.link/publink/show?code=XZVzaxVZoT4JYici0K0EI9dv3GRKbBYvNR4k
 
-Circular packs:
+Circular packs: <br />
 https://u.pcloud.link/publink/show?code=XZnzaxVZGMdjYktgEuHCCUy7zmP9uRiyatfk
