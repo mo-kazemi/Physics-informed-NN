@@ -23,7 +23,7 @@ Contains the deep learning model functions.
 Contains the code needed to run the test.
 
 # Data:
-The data required to run the training and testing can be found here:
+The data required to run the training and testing can be found here: <br />
 Training:
 Velocity in x-direction: <br />
 https://u.pcloud.link/publink/show?code=XZvHaxVZoDSpyNXTHjpM5aLuPhDfKSut8iqy
